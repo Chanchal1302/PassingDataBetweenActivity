@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PassingData2OtherActivity</string>
+    <string name="main_activity">This is First Activity</string>
+    <string name="send_data_to_second_activity">Send data to second Activity</string>
+    <string name="SecondActivity">This is Second Activity</string>
+    <string name="send_data_to_first_activity">Send Data to First Activity</string>
+</resources>
